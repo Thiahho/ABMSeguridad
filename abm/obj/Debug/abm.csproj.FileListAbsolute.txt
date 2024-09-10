@@ -1,0 +1,173 @@
+C:\Users\ale\source\repos\abm\abm\bin\Debug\abm.exe.config
+C:\Users\ale\source\repos\abm\abm\bin\Debug\abm.exe
+C:\Users\ale\source\repos\abm\abm\bin\Debug\abm.pdb
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.Form1.resources
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.exe
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.pdb
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.newusu.resources
+C:\Users\ale\source\repos\abm\abm\obj\Debug\abm.Form2.resources
+C:\Users\ezele\source\repos\abm\abm\bin\Debug\abm.exe.config
+C:\Users\ezele\source\repos\abm\abm\bin\Debug\abm.exe
+C:\Users\ezele\source\repos\abm\abm\bin\Debug\abm.pdb
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.Form1.resources
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.Form2.resources
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.newusu.resources
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.exe
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.pdb
+C:\Users\ezele\source\repos\abm\abm\obj\Debug\abm.Form3.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\bin\Debug\abm.exe.config
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\bin\Debug\abm.exe
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\bin\Debug\abm.pdb
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.Form3.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.newusu.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.exe
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.Form4.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.main.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.login.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.prov.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.usudale.resources
+C:\Users\ale\Desktop\Nueva carpeta (7)\abm\abm\obj\Debug\abm.view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\abm.exe.config
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\abm.exe
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\abm.pdb
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.prov.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.main.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.exe
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.prov.resources
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.main.resources
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.view.resources
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.exe
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\pro\abm\abm\bin\Debug\abm.exe.config
+C:\Users\ale\Desktop\pro\abm\abm\bin\Debug\abm.exe
+C:\Users\ale\Desktop\pro\abm\abm\bin\Debug\abm.pdb
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.new_reg.resources
+C:\Users\ale\Desktop\pro\abm\abm\obj\Debug\abm.his_view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.his_view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.new_reg.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.dll
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.Video.dll
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.xml
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.Video.xml
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.Form1.resources
+C:\Users\ezele\Desktop\Nueva carpeta (2)\abm\abm\obj\Debug\abm.csproj.CopyComplete
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe.config
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.pdb
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.dll
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.dll
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.xml
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.xml
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.prov.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.his_view.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.new_reg.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.main.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.view.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.CopyComplete
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.exe
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.ING.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.Form1x.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe.config
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.pdb
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.dll
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.dll
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.xml
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.xml
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.Form1x.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.prov.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.his_view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.ING.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.new_reg.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.main.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.view.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.csproj.CopyComplete
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.exe
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\tutos.Form1.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.logo.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\tutos.Form1.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.logo.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.dni.resources
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe.manifest
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.application
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.exe.manifest
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.application
+C:\Users\ale\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.login.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.exe.manifest
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\bin\Debug\abm.application
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.dni.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.login.resources
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.exe.manifest
+C:\Users\ezele\Desktop\Nueva carpeta (3)\abm\obj\Debug\abm.application
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\abm.exe.config
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\abm.exe.manifest
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\abm.application
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\abm.exe
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\abm.pdb
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.dll
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.Video.dll
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.xml
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.Video.xml
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\tutos.Form1.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.Form1x.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.prov.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.his_view.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.ING.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.login.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.logo.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.new_reg.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.main.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.Properties.Resources.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.exe.manifest
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.application
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.exe
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.pdb
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.Form4.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.csproj.CopyComplete
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.Form3.resources
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\System.Configuration.ConfigurationManager.xml

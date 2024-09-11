@@ -171,3 +171,36 @@ C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.csproj.CopyCompl
 C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\obj\Debug\abm.Form3.resources
 C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\ale\Desktop\NET CRM EDIFICIO\CRM NET\abm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\ppsABMSeguridad\abm\bin\Debug\abm.exe.config
+C:\ppsABMSeguridad\abm\bin\Debug\abm.exe.manifest
+C:\ppsABMSeguridad\abm\bin\Debug\abm.application
+C:\ppsABMSeguridad\abm\bin\Debug\abm.exe
+C:\ppsABMSeguridad\abm\bin\Debug\abm.pdb
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.dll
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.Video.DirectShow.dll
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.Video.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.xml
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.Video.xml
+C:\ppsABMSeguridad\abm\bin\Debug\AForge.Video.DirectShow.xml
+C:\ppsABMSeguridad\abm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\ppsABMSeguridad\abm\obj\Debug\abm.csproj.AssemblyReference.cache
+C:\ppsABMSeguridad\abm\obj\Debug\tutos.Form1.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.Form1x.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.prov.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.Form3.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.Form4.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.his_view.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.ING.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.login.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.logo.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.new_reg.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.main.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.Properties.Resources.resources
+C:\ppsABMSeguridad\abm\obj\Debug\abm.csproj.GenerateResource.cache
+C:\ppsABMSeguridad\abm\obj\Debug\abm.csproj.CoreCompileInputs.cache
+C:\ppsABMSeguridad\abm\obj\Debug\abm.exe.manifest
+C:\ppsABMSeguridad\abm\obj\Debug\abm.application
+C:\ppsABMSeguridad\abm\obj\Debug\abm.csproj.CopyComplete
+C:\ppsABMSeguridad\abm\obj\Debug\abm.exe
+C:\ppsABMSeguridad\abm\obj\Debug\abm.pdb

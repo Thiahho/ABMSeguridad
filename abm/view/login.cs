@@ -26,6 +26,22 @@ namespace abm
             _usuarioService = new UsuarioService();
         }
 
+        private void usu_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetterOrDigit(e.KeyChar) && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void pas_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetterOrDigit(e.KeyChar) && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -61,5 +77,7 @@ namespace abm
 
 
         }
+
+        
     }
 }

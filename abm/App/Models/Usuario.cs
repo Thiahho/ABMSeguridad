@@ -17,8 +17,9 @@ namespace abm.App.Models
             Nombre = nombre;
             Password = password;
         }
+        protected string Apellido { get; set; }
+        protected string Dni { get; set; }
 
-       
         public Usuario() { }
     }
 }

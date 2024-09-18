@@ -7,7 +7,6 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.
 namespace abm.data.Controllers
 {
     internal class HistorialController

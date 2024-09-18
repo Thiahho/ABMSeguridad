@@ -18,7 +18,7 @@ namespace abm
         public logo(string conx)
         {
            
-          
+          //CACA
             this.conx = conx;
             InitializeComponent();
             string connectionString = @"Data Source='" + conx + "';Initial Catalog=abm;Integrated Security=True";

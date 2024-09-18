@@ -43,7 +43,7 @@
             // 
             this.btnguardar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
             this.btnguardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnguardar.Font = new System.Drawing.Font("Century Gothic", 14F);
+            this.btnguardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnguardar.ForeColor = System.Drawing.Color.White;
             this.btnguardar.Location = new System.Drawing.Point(23, 244);
             this.btnguardar.Name = "btnguardar";
@@ -59,12 +59,13 @@
             this.txtruta.Name = "txtruta";
             this.txtruta.Size = new System.Drawing.Size(539, 32);
             this.txtruta.TabIndex = 1;
+            this.txtruta.TextChanged += new System.EventHandler(this.txtruta_TextChanged);
             // 
             // btnabrir
             // 
             this.btnabrir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
             this.btnabrir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnabrir.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.btnabrir.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.btnabrir.ForeColor = System.Drawing.Color.White;
             this.btnabrir.Location = new System.Drawing.Point(576, 62);
             this.btnabrir.Name = "btnabrir";
@@ -78,11 +79,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(18, 28);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 21);
+            this.label1.Size = new System.Drawing.Size(102, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Guardar en...";
             // 
@@ -117,10 +118,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.label2.Location = new System.Drawing.Point(19, 159);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 21);
+            this.label2.Size = new System.Drawing.Size(56, 20);
             this.label2.TabIndex = 9;
             this.label2.Text = "Desde";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -128,10 +129,10 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Century Gothic", 12F);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.label3.Location = new System.Drawing.Point(370, 159);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 21);
+            this.label3.Size = new System.Drawing.Size(52, 20);
             this.label3.TabIndex = 10;
             this.label3.Text = "Hasta";
             // 

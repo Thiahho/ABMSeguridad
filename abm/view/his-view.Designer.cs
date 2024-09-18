@@ -31,9 +31,9 @@ namespace abm
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnExportar = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnBuscar = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -44,20 +44,20 @@ namespace abm
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
-            // button2
+            // btnExportar
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Century Gothic", 8.25F);
-            this.button2.ForeColor = System.Drawing.SystemColors.Control;
-            this.button2.Location = new System.Drawing.Point(23, 513);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(113, 39);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Importa a CSV";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnExportar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
+            this.btnExportar.FlatAppearance.BorderSize = 0;
+            this.btnExportar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExportar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.btnExportar.ForeColor = System.Drawing.SystemColors.Control;
+            this.btnExportar.Location = new System.Drawing.Point(23, 513);
+            this.btnExportar.Name = "btnExportar";
+            this.btnExportar.Size = new System.Drawing.Size(113, 39);
+            this.btnExportar.TabIndex = 2;
+            this.btnExportar.Text = "Importa a CSV";
+            this.btnExportar.UseVisualStyleBackColor = false;
+            this.btnExportar.Click += new System.EventHandler(this.btnExportar_Click);
             // 
             // textBox1
             // 
@@ -67,21 +67,21 @@ namespace abm
             this.textBox1.Size = new System.Drawing.Size(174, 20);
             this.textBox1.TabIndex = 1;
             // 
-            // button1
+            // btnBuscar
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.SystemColors.Control;
-            this.button1.Location = new System.Drawing.Point(345, 59);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "BUSCA ";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnBuscar.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnBuscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
+            this.btnBuscar.FlatAppearance.BorderSize = 0;
+            this.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscar.ForeColor = System.Drawing.SystemColors.Control;
+            this.btnBuscar.Location = new System.Drawing.Point(345, 59);
+            this.btnBuscar.Name = "btnBuscar";
+            this.btnBuscar.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscar.TabIndex = 0;
+            this.btnBuscar.Text = "BUSCA ";
+            this.btnBuscar.UseVisualStyleBackColor = false;
+            this.btnBuscar.Click += new System.EventHandler(this.btnbBucar_Click);
             // 
             // dataGridView1
             // 
@@ -111,10 +111,10 @@ namespace abm
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(92, 85);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(427, 15);
+            this.label1.Size = new System.Drawing.Size(457, 13);
             this.label1.TabIndex = 3;
             this.label1.Text = "Seleccionando el botón \"Buscar \" visualizarán todos los que están disponibles.";
             // 
@@ -122,10 +122,10 @@ namespace abm
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.label2.Location = new System.Drawing.Point(173, 36);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(127, 19);
+            this.label2.Size = new System.Drawing.Size(153, 20);
             this.label2.TabIndex = 4;
             this.label2.Text = "DEPERTAMENTO";
             // 
@@ -136,6 +136,7 @@ namespace abm
             this.dateTimePickerDesde.Name = "dateTimePickerDesde";
             this.dateTimePickerDesde.Size = new System.Drawing.Size(200, 20);
             this.dateTimePickerDesde.TabIndex = 5;
+            this.dateTimePickerDesde.ValueChanged += new System.EventHandler(this.dateTimePickerDesde_ValueChanged);
             // 
             // dateTimePickerHasta
             // 
@@ -178,8 +179,8 @@ namespace abm
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnBuscar);
+            this.Controls.Add(this.btnExportar);
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "his_view";
@@ -194,8 +195,8 @@ namespace abm
         #endregion
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnBuscar;
+        private System.Windows.Forms.Button btnExportar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DateTimePicker dateTimePickerDesde;

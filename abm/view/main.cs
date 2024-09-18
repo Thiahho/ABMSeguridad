@@ -8,26 +8,34 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-
+using System.Configuration;
+using abm.App.Models;
 namespace abm
 {
     public partial class main : Form
     {
-
-        string conx;
-        public main(string y , string conx )
+        List<Usuario>usuarios= new List<Usuario>(); 
+        string conn= ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+        string tipoUsuario;
+        public main(string tipo, string con)
         {
 
-            this.conx = conx;
-
+            this.tipoUsuario= tipo;
+            this.conn = con;
 
 
             InitializeComponent();
-            if (y != "1") // Administrador
+            if (tipo == "1") // Administrador
+            {
+                button1.Visible = true;
+                button2.Visible = true;
+                provx.Visible = true;
+
+            }
+            else
             {
                 button1.Visible = false;
                 button2.Visible = false;
-
             }
             
             
@@ -63,7 +71,7 @@ namespace abm
         private void provx_Click(object sender, EventArgs e)
         {
             
-            openhoja(new prov(this , conx));
+            openhoja(new prov(this , conn));
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -81,7 +89,7 @@ namespace abm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            openhoja(new his_view(conx));
+            openhoja(new his_view(conn));
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -120,7 +128,7 @@ namespace abm
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            openhoja(new logo(conx));
+            openhoja(new logo(conn));
             
         }
 
@@ -131,7 +139,6 @@ namespace abm
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -142,7 +149,7 @@ namespace abm
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            openhoja(new logo(conx));
+            openhoja(new logo(conn));
         }
 
         private void button4_Click(object sender, EventArgs e)

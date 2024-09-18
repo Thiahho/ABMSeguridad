@@ -11,7 +11,7 @@ namespace abm.App.Models
     {
         public string Nombre { get; set; }
         public string Password { get; set; }
-
+        public int Tipo {  get; set; }
         public Usuario(string nombre, string password)
         {
             Nombre = nombre;

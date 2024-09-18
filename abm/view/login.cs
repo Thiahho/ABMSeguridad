@@ -1,6 +1,7 @@
 ﻿using abm.App.Models;
 using abm.data.Repositories;
 using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -66,14 +67,17 @@ namespace abm
 
             if (usuario != null)
             {
-                MessageBox.Show("Inicio de sesión exitoso.");
+                //MessageBox.Show("Inicio de sesión exitoso.");
                 // Aquí puedes abrir otra ventana o realizar otra acción después de un inicio de sesión exitoso.
+                string con = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+                Form form = new main(usuario.Tipo.ToString(),con);
+                form.ShowDialog();
+                this.Close();
             }
             else
             {
                 MessageBox.Show("Nombre de usuario o contraseña incorrectos.");
             }
-
 
 
         }

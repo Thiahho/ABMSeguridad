@@ -17,11 +17,10 @@ namespace abm
         List<Usuario>usuarios= new List<Usuario>(); 
         string conn= ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
         string tipoUsuario;
-        public main(string tipo, string con)
+        public main(string tipo)
         {
 
             this.tipoUsuario= tipo;
-            this.conn = con;
 
 
             InitializeComponent();
@@ -128,7 +127,7 @@ namespace abm
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            openhoja(new logo(conn));
+            //openhoja(new logo(conn));
             
         }
 
@@ -149,7 +148,7 @@ namespace abm
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            openhoja(new logo(conn));
+            //openhoja(new logo(conn));
         }
 
         private void button4_Click(object sender, EventArgs e)

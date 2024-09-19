@@ -11,15 +11,15 @@ namespace abm.data.Controllers
 {
     internal class HistorialController
     {
-        private readonly IHistorialService _historialService;
+        private readonly HistorialRepositorio _historialRepositorio;
         
-        public HistorialController(IHistorialService historialService)
+        public HistorialController(HistorialRepositorio historialRepositorio)
         {
-            _historialService = historialService;
+            this._historialRepositorio= historialRepositorio;
         }
         public List<Registro> BuscarPersona(string condicion,DateTime desde,DateTime hasta)
         {
-            var registros= _historialService.BuscarPersona(condicion, desde, hasta);
+            var registros= _historialRepositorio.BuscarPersona(condicion, desde, hasta);
             return registros;
         }
        

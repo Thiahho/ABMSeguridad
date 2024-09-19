@@ -69,8 +69,8 @@ namespace abm
             {
                 //MessageBox.Show("Inicio de sesión exitoso.");
                 // Aquí puedes abrir otra ventana o realizar otra acción después de un inicio de sesión exitoso.
-                string con = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-                Form form = new main(usuario.Tipo.ToString(),con);
+                Form form = new main(usuario.Tipo.ToString());
+                //MessageBox.Show(usuario.Tipo.ToString());
                 form.ShowDialog();
                 this.Close();
             }
@@ -82,6 +82,9 @@ namespace abm
 
         }
 
-        
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

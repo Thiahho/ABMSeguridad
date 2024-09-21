@@ -29,6 +29,7 @@ namespace abm.data.Repositories
                 {//esto bloqueado las inyecciones sql
                     cmd.Parameters.AddWithValue("@Nombre", nombre);
                     cmd.Parameters.AddWithValue("@Password", password);
+
                     //esto es mil veces mejor que la cosa que nos dio gustavino
                     con.Open();
 
@@ -39,7 +40,8 @@ namespace abm.data.Repositories
                             return new Usuario
                             {
                                 Nombre = reader["usu"].ToString(),
-                                Password = reader["pass"].ToString()
+                                Password = reader["pass"].ToString(),
+                                Tipo = reader["tipo"].ToString()
                             };
                         }
                         else

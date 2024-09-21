@@ -11,11 +11,12 @@ namespace abm.App.Models
     {
         public string Nombre { get; set; }
         public string Password { get; set; }
-        public int Tipo {  get; set; }
-        public Usuario(string nombre, string password)
+        public String Tipo {  get; set; }
+        public Usuario(string nombre, string password, String tipo)
         {
             Nombre = nombre;
             Password = password;
+            Tipo = tipo;
         }
         protected string Apellido { get; set; }
         protected string Dni { get; set; }

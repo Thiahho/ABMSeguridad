@@ -27,14 +27,14 @@ namespace abm
             if (tipo == "1") // Administrador
             {
                 button1.Visible = true;
-                button2.Visible = true;
+                bEditar.Visible = true;
                 provx.Visible = true;
 
             }
             else
             {
                 button1.Visible = false;
-                button2.Visible = false;
+                bEditar.Visible = false;
             }
             
             

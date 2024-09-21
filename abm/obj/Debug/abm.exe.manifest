@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mOyS1coSs2mS8GXgnGIorcgFj0OVXdWCZcp9DrO1j3w=</dsig:DigestValue>
+        <dsig:DigestValue>bDfxiD9W6/FEQmXzsg0w7nLsLC8i+jJn3YCUVBI7Ahw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -185,13 +185,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="abm.exe.config" size="391">
+  <file name="abm.exe.config" size="407">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>e0qsE1qmFn6h3b2GcWlIYEm+y0yOss1qp8hlCE5oztI=</dsig:DigestValue>
+      <dsig:DigestValue>SwJS/1Zg1glFvAOgNNAM+a3mQ+Fdoq9KKsLtQaW1fNw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

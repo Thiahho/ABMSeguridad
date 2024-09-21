@@ -249,3 +249,14 @@ C:\Users\thiag\Source\Repos\ABMSeguridad\abm\obj\Debug\abm.application
 C:\Users\thiag\Source\Repos\ABMSeguridad\abm\obj\Debug\abm.csproj.Up2Date
 C:\Users\thiag\Source\Repos\ABMSeguridad\abm\obj\Debug\abm.exe
 C:\Users\thiag\Source\Repos\ABMSeguridad\abm\obj\Debug\abm.pdb
+C:\ppsABMSeguridad\abm\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.Helpers.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.Razor.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.Helpers.xml
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.Razor.xml
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.xml
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Razor.xml

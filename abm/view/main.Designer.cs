@@ -38,7 +38,7 @@ namespace abm
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.bEditar = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -117,7 +117,7 @@ namespace abm
             this.panel1.Controls.Add(this.pictureBox3);
             this.panel1.Controls.Add(this.provx);
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.button2);
+            this.panel1.Controls.Add(this.bEditar);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -150,24 +150,24 @@ namespace abm
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // button2
+            // bEditar
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
-            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(40)))));
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button2.Location = new System.Drawing.Point(0, 189);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(232, 56);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "Editar";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.bEditar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(72)))), ((int)(((byte)(68)))));
+            this.bEditar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bEditar.FlatAppearance.BorderSize = 0;
+            this.bEditar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(40)))));
+            this.bEditar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.bEditar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.bEditar.ForeColor = System.Drawing.Color.White;
+            this.bEditar.Image = ((System.Drawing.Image)(resources.GetObject("bEditar.Image")));
+            this.bEditar.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.bEditar.Location = new System.Drawing.Point(0, 189);
+            this.bEditar.Name = "bEditar";
+            this.bEditar.Size = new System.Drawing.Size(232, 56);
+            this.bEditar.TabIndex = 7;
+            this.bEditar.Text = "Editar";
+            this.bEditar.UseVisualStyleBackColor = false;
+            this.bEditar.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -227,7 +227,7 @@ namespace abm
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button bEditar;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.PictureBox pictureBox3;

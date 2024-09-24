@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace abm.data.Repositorio
 {
@@ -20,36 +21,26 @@ namespace abm.data.Repositorio
         }
         public Usuario BuscarUsuario(string nombre, string password)
         {
+            Usuario usuario = null;
             using (SqlConnection con = new SqlConnection(_connectionString))
             {
-                string sqlQuery = "SELECT * FROM usu WHERE usu = @Nombre AND pass = @Password";
+                con.Open();
+                SqlCommand cmd = new SqlCommand("SELECT * FROM usu WHERE usu = @Nombre AND pass = @Password",con);
 
-                using (SqlCommand cmd = new SqlCommand(sqlQuery, con))
-                {//esto bloqueado las inyecciones sql
-                    cmd.Parameters.AddWithValue("@Nombre", nombre);
-                    cmd.Parameters.AddWithValue("@Password", password);
-
-                    //esto es mil veces mejor que la cosa que nos dio gustavino
-                    con.Open();
-
-                    using (SqlDataReader reader = cmd.ExecuteReader())
+                using (SqlDataReader reader= cmd.ExecuteReader())
+                {
+                    if (reader.Read())
                     {
-                        if (reader.Read())
+                        return new Usuario
                         {
-                            return new Usuario
-                            {
-                                Nombre = reader["usu"].ToString(),
-                                Password = reader["pass"].ToString(),
-                                Tipo = reader["tipo"].ToString()
-                            };
-                        }
-                        else
-                        {
-                            return null;
-                        }
+                            Nombre = reader["usu"].ToString(),
+                            Password = reader["pass"].ToString(),
+                            Tipo = reader["tipo"].ToString()
+                        };
                     }
                 }
             }
+            return usuario;
         }
         public Usuario ObtenerUsuarioPorId(int id)
         {
@@ -79,17 +70,25 @@ namespace abm.data.Repositorio
 
         public bool ActualizarUsuario(Usuario usuario)
         {
-            using (SqlConnection conn = new SqlConnection(_connectionString))
+            try
             {
-                conn.Open();
-                SqlCommand cmd = new SqlCommand("UPDATE usu SET Nombre = @Nombre, Password = @Password, Tipo = @Tipo WHERE Id = @Id", conn);
-                cmd.Parameters.AddWithValue("@Nombre", usuario.Nombre);
-                cmd.Parameters.AddWithValue("@Password", usuario.Password);
-                cmd.Parameters.AddWithValue("@Tipo", usuario.Tipo);
-                cmd.Parameters.AddWithValue("@Id", usuario.Id);
+                using (SqlConnection conn = new SqlConnection(_connectionString))
+                {
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("UPDATE usu SET Nombre = @Nombre, Password = @Password, Tipo = @Tipo WHERE Id = @Id", conn);
+                    cmd.Parameters.AddWithValue("@Nombre", usuario.Nombre);
+                    cmd.Parameters.AddWithValue("@Password", usuario.Password);
+                    cmd.Parameters.AddWithValue("@Tipo", usuario.Tipo);
+                    cmd.Parameters.AddWithValue("@Id", usuario.Id);
 
-                int result = cmd.ExecuteNonQuery();
-                return result > 0;
+                    int result = cmd.ExecuteNonQuery();
+                    return result > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Eror al actualizar el Usuario.", ex.Message);
+                return false;
             }
         }
     }

@@ -23,11 +23,12 @@ namespace abm.data.Repositories
             _historialRepositorio= new HistorialRepositorio();
 
         }
-        public List<Registro> BuscarPersona(string condicion, DateTime desde, DateTime hasta)
+        
+        public List<Registro> BuscarRegistro(string condicion, DateTime desde, DateTime hasta)
         {
             try
             {
-                var historial = _historialRepositorio.BuscarPersona(condicion, desde, hasta);
+                var historial = _historialRepositorio.BuscarRegistro(condicion, desde, hasta);
                 return historial;
             }
             catch (Exception ex)
@@ -36,7 +37,6 @@ namespace abm.data.Repositories
                 return new List<Registro>();
 
             }
-
 
         }
 
@@ -67,6 +67,19 @@ namespace abm.data.Repositories
             File.WriteAllLines(ruta, lineas);
         }
 
-     
+        public Registro ObtenerRegistroPorId(int id)
+        {
+            try
+            {
+                var registro = _historialRepositorio.ObtenerRegistroPorId(id);
+                return registro;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener id.", ex.Message);
+                return null;    
+            }
+        }
+
     }
 }

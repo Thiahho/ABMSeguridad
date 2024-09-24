@@ -48,7 +48,7 @@ namespace abm
             DateTime fechaDesde = dateTimePickerDesde.Value.Date;
             DateTime fechaHasta = dateTimePickerHasta.Value.Date;
 
-            registros = _historialService.BuscarPersona(condicion, fechaDesde, fechaHasta);
+            registros = _historialService.BuscarRegistro(condicion, fechaDesde, fechaHasta);
 
             if (registros != null && registros.Count>0)
             {
@@ -227,7 +227,8 @@ namespace abm
 
                 // Crear un nuevo Registro con los valores del DataGridView
                 Registro registro = new Registro(
-                    Identificacion: identificacion,
+                    
+                    Identificacion: identificacion,     
                     Nombre: nombre,
                     Apellido: apellido,
                     Departamento: departamento,

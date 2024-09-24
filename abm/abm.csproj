@@ -106,18 +106,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppConfig.cs" />
     <Compile Include="App\Models\Donde.cs" />
     <Compile Include="App\Models\Entra.cs" />
     <Compile Include="App\Models\Motivo.cs" />
     <Compile Include="App\Models\Registro.cs" />
     <Compile Include="App\Models\Salida.cs" />
     <Compile Include="App\Models\Usuario.cs" />
-    <Compile Include="data\Controllers\HistorialController.cs" />
+    <Compile Include="data\Conexion\Conexion.cs" />
+    <Compile Include="data\Repositorio\UsuarioRepositorio.cs" />
     <Compile Include="data\Service\HistorialService.cs" />
     <Compile Include="data\Service\IHistorialService.cs" />
     <Compile Include="data\Service\UsuarioService.cs" />
     <Compile Include="data\Service\IUsuarioService.cs" />
     <Compile Include="data\Repositorio\HistorialRepositorio.cs" />
+    <Compile Include="view\AgregarYModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\AgregarYModificarUsuario.Designer.cs">
+      <DependentUpon>AgregarYModificarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -186,6 +194,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="view\AgregarYModificarUsuario.resx">
+      <DependentUpon>AgregarYModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

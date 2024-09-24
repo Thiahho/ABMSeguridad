@@ -3,32 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\data\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\ing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\ing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\data\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\data\\service\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\service\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\data\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\repositorio\\historialrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\repositorio\\historialrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\his-view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\data\\service\\ihistorialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\data\\service\\ihistorialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\agregarymodificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\agregarymodificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\agregarymodificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\agregarymodificarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\app\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\app\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\form1x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\form1x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|c:\\users\\thiag\\source\\repos\\abmseguridad\\abm\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8208DDC-710A-4C66-8E1F-93F0ABF3DF35}|abm\\abm.csproj|solutionrelative:abm\\view\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +109,52 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 152,
+          "DockedWidth": 305,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "his-view.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs",
+              "RelativeDocumentMoniker": "abm\\view\\his-view.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs",
+              "RelativeToolTip": "abm\\view\\his-view.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:56:05.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "abm\\data\\Service\\UsuarioService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:12:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\App\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "abm\\App\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\App\\Models\\Usuario.cs",
+              "RelativeToolTip": "abm\\App\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:15:33.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -46,97 +163,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HistorialController.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Controllers\\HistorialController.cs",
-              "RelativeDocumentMoniker": "abm\\data\\Controllers\\HistorialController.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Controllers\\HistorialController.cs",
-              "RelativeToolTip": "abm\\data\\Controllers\\HistorialController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form4.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form4.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T19:46:06.622Z",
+              "WhenOpened": "2024-09-24T02:24:38.529Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ING.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\ING.cs",
+              "RelativeDocumentMoniker": "abm\\view\\ING.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\ING.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\ING.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:24:35.038Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Service\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\IUsuarioService.cs",
+              "RelativeToolTip": "abm\\data\\Service\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:13:02.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "his-view.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\his-view.cs",
-              "RelativeDocumentMoniker": "abm\\his-view.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\his-view.cs [Dise\u00F1o]",
-              "RelativeToolTip": "abm\\his-view.cs [Dise\u00F1o]",
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form3.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form3.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T17:20:37.775Z",
+              "WhenOpened": "2024-09-24T02:24:39.283Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "his-view.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\his-view.cs",
-              "RelativeDocumentMoniker": "abm\\his-view.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\his-view.cs",
-              "RelativeToolTip": "abm\\his-view.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form2.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form2.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T22:25:05.902Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 172,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2024-09-24T02:24:40.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1.cs",
-              "RelativeDocumentMoniker": "abm\\Form1.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1.cs",
-              "RelativeToolTip": "abm\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "HistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\HistorialService.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Service\\HistorialService.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\HistorialService.cs",
+              "RelativeToolTip": "abm\\data\\Service\\HistorialService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T22:13:21.575Z",
+              "WhenOpened": "2024-09-24T02:21:52.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\Source\\Repos\\ABMSeguridad\\abm\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "abm\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\thiag\\Source\\Repos\\ABMSeguridad\\abm\\Form1.Designer.cs",
-              "RelativeToolTip": "abm\\Form1.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwFkAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "abm\\data\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T23:06:45.683Z",
+              "WhenOpened": "2024-09-24T02:20:12.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1.cs",
-              "RelativeDocumentMoniker": "abm\\Form1.cs",
-              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "abm\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 8,
+              "Title": "logo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs",
+              "RelativeDocumentMoniker": "abm\\view\\logo.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\logo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T22:13:17.779Z",
+              "WhenOpened": "2024-09-19T23:19:15.054Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "his-view.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs",
+              "RelativeDocumentMoniker": "abm\\view\\his-view.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\his-view.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\his-view.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:55:49.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistorialRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Repositorio\\HistorialRepositorio.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Repositorio\\HistorialRepositorio.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Repositorio\\HistorialRepositorio.cs",
+              "RelativeToolTip": "abm\\data\\Repositorio\\HistorialRepositorio.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswGgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:39:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\login.cs",
+              "RelativeDocumentMoniker": "abm\\view\\login.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:10:32.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\IHistorialService.cs",
+              "RelativeDocumentMoniker": "abm\\data\\Service\\IHistorialService.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\data\\Service\\IHistorialService.cs",
+              "RelativeToolTip": "abm\\data\\Service\\IHistorialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:21:50.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgregarYModificarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\AgregarYModificarUsuario.cs",
+              "RelativeDocumentMoniker": "abm\\view\\AgregarYModificarUsuario.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\AgregarYModificarUsuario.cs",
+              "RelativeToolTip": "abm\\view\\AgregarYModificarUsuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:02:03.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\login.cs",
+              "RelativeDocumentMoniker": "abm\\view\\login.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\login.cs",
+              "RelativeToolTip": "abm\\view\\login.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:12:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgregarYModificarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\AgregarYModificarUsuario.cs",
+              "RelativeDocumentMoniker": "abm\\view\\AgregarYModificarUsuario.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\AgregarYModificarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\AgregarYModificarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:01:28.758Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:01:27.925Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\main.cs",
+              "RelativeDocumentMoniker": "abm\\view\\main.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "abm\\view\\main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:53:43.279Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Form1x.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1x.cs",
               "RelativeDocumentMoniker": "abm\\Form1x.cs",
               "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\Form1x.cs",
               "RelativeToolTip": "abm\\Form1x.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T22:37:32.506Z"
+              "WhenOpened": "2024-09-24T00:55:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "abm\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwKQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:55:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\main.cs",
+              "RelativeDocumentMoniker": "abm\\view\\main.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\main.cs",
+              "RelativeToolTip": "abm\\view\\main.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:21:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "abm\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\Form1.cs",
+              "RelativeToolTip": "abm\\view\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:10:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "logo.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs",
+              "RelativeDocumentMoniker": "abm\\view\\logo.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\ABMSeguridad\\abm\\view\\logo.cs",
+              "RelativeToolTip": "abm\\view\\logo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:20:21.586Z",
+              "EditorCaption": ""
             }
           ]
         }

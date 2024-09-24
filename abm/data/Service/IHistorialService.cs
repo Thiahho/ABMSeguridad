@@ -11,7 +11,8 @@ namespace abm.data.Repositories
     public interface IHistorialService
     {
         //Registro buscarPersona(DateTime desde, DateTime hasta, string condicion); 
-        List<Registro> BuscarPersona(string condicion, DateTime desde, DateTime hasta);
+        List<Registro> BuscarRegistro(string condicion, DateTime desde, DateTime hasta);
         void ExportarCsv(List<Registro> registros, string ruta, string separador);
+        Registro ObtenerRegistroPorId(int id);
     }
 }

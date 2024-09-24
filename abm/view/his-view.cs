@@ -1,8 +1,10 @@
 ﻿using abm.App.Models;
 using abm.data.Repositories;
+using abm.data.Repositorio;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -22,10 +24,10 @@ namespace abm
         //string conx;
         private readonly IHistorialService _historialService;
         private List<Registro> registros= new List<Registro>(); 
-        public his_view(string connString)
+        public his_view()
         {
             InitializeComponent();
-            _historialService = new HistorialService(connString);
+            _historialService = new HistorialService();
         }
 
         //public his_view(string x)
@@ -46,7 +48,7 @@ namespace abm
             DateTime fechaDesde = dateTimePickerDesde.Value.Date;
             DateTime fechaHasta = dateTimePickerHasta.Value.Date;
 
-            registros = _historialService.BuscarPersona(condicion, fechaDesde, fechaHasta);
+            registros = _historialService.BuscarRegistro(condicion, fechaDesde, fechaHasta);
 
             if (registros != null && registros.Count>0)
             {
@@ -225,7 +227,8 @@ namespace abm
 
                 // Crear un nuevo Registro con los valores del DataGridView
                 Registro registro = new Registro(
-                    Identificacion: identificacion,
+                    
+                    Identificacion: identificacion,     
                     Nombre: nombre,
                     Apellido: apellido,
                     Departamento: departamento,

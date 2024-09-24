@@ -154,7 +154,7 @@
             this.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "Form1";
-            this.Text = "DGV <-> CSV";
+            this.Text = "  ";
             this.ResumeLayout(false);
             this.PerformLayout();
 

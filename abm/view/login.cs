@@ -1,6 +1,7 @@
 ﻿using abm.App.Models;
 using abm.data.Repositories;
 using System;
+using System.Configuration;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,9 +20,6 @@ namespace abm
         private readonly IUsuarioService _usuarioService;
         public login()
         {
-
-            
-
             InitializeComponent();
             _usuarioService = new UsuarioService();
         }
@@ -66,8 +64,12 @@ namespace abm
 
             if (usuario != null)
             {
-                MessageBox.Show("Inicio de sesión exitoso.");
+                //MessageBox.Show("Inicio de sesión exitoso.");
                 // Aquí puedes abrir otra ventana o realizar otra acción después de un inicio de sesión exitoso.
+                Form form = new main(usuario.Tipo.ToString());
+                //MessageBox.Show(usuario.Tipo.ToString());
+                form.ShowDialog();
+                this.Close();
             }
             else
             {
@@ -75,9 +77,11 @@ namespace abm
             }
 
 
-
         }
 
-        
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

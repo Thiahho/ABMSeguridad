@@ -91,6 +91,7 @@ namespace abm
             this.label4.Size = new System.Drawing.Size(86, 31);
             this.label4.TabIndex = 4;
             this.label4.Text = "label4";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // In
             // 

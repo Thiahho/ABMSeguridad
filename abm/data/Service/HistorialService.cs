@@ -10,20 +10,34 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace abm.data.Repositories
 {
     internal class HistorialService : IHistorialService
     {
         private readonly HistorialRepositorio _historialRepositorio;
-        
-        public HistorialService(string connString)
+
+        public HistorialService()
         {
-            _historialRepositorio= new HistorialRepositorio(connString);
+            _historialRepositorio= new HistorialRepositorio();
+
         }
-        public List<Registro> BuscarPersona(string condicion, DateTime desde, DateTime hasta)
+        
+        public List<Registro> BuscarRegistro(string condicion, DateTime desde, DateTime hasta)
         {
-         return _historialRepositorio.BuscarPersona(condicion,desde,hasta);
+            try
+            {
+                var historial = _historialRepositorio.BuscarRegistro(condicion, desde, hasta);
+                return historial;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return new List<Registro>();
+
+            }
+
         }
 
         public void ExportarCsv(List<Registro> registros, string ruta, string separador)
@@ -53,6 +67,19 @@ namespace abm.data.Repositories
             File.WriteAllLines(ruta, lineas);
         }
 
-     
+        public Registro ObtenerRegistroPorId(int id)
+        {
+            try
+            {
+                var registro = _historialRepositorio.ObtenerRegistroPorId(id);
+                return registro;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener id.", ex.Message);
+                return null;    
+            }
+        }
+
     }
 }

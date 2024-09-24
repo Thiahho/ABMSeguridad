@@ -15,27 +15,27 @@ namespace abm
     {
         SqlConnection con;
         string conx;
-        public logo(string conx)
-        {
+        //public logo(string conx)
+        //{
            
-          //CACA
-            this.conx = conx;
-            InitializeComponent();
-            string connectionString = @"Data Source='" + conx + "';Initial Catalog=abm;Integrated Security=True";
-            this.con = new SqlConnection(connectionString);
-            con.Open();
-            SqlCommand comm = new SqlCommand("SELECT COUNT(*) FROM[dbo].[entra] e WHERE e.id NOT IN(SELECT s.id_entra FROM[dbo].[salida] s)", this.con);
-            Int32 count = Convert.ToInt32(comm.ExecuteScalar());
-            if (count > 0)
-            {
-                label4.Text = Convert.ToString(count.ToString()); //For example a Label
-            }
-            else
-            {
-                label4.Text = "0";
-            }
-            con.Close();
-        }
+          
+        //    this.conx = conx;
+        //    InitializeComponent();
+        //    string connectionString = @"Data Source='" + conx + "';Initial Catalog=abm;Integrated Security=True";
+        //    this.con = new SqlConnection(connectionString);
+        //    con.Open();
+        //    SqlCommand comm = new SqlCommand("SELECT COUNT(*) FROM[dbo].[entra] e WHERE e.id NOT IN(SELECT s.id_entra FROM[dbo].[salida] s)", this.con);
+        //    Int32 count = Convert.ToInt32(comm.ExecuteScalar());
+        //    if (count > 0)
+        //    {
+        //        label4.Text = Convert.ToString(count.ToString()); //For example a Label
+        //    }
+        //    else
+        //    {
+        //        label4.Text = "0";
+        //    }
+        //    con.Close();
+        //}
 
         private void HORA_Tick(object sender, EventArgs e)
         {
@@ -54,6 +54,11 @@ namespace abm
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,4 +1,5 @@
 ﻿using abm.App.Models;
+using abm.data.Conexion;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -14,16 +15,46 @@ namespace abm.data.Repositorio
     {
         private readonly string _connectionString;
 
-        public HistorialRepositorio(string connectionString)
+        public HistorialRepositorio()
         {
-            _connectionString = connectionString;
-        }   
-
-        public List<Registro>BuscarHistorial(DateTime desde, DateTime hasta)
-        {
-            return null;
+            _connectionString = Conexion.Conexion.GetConnectionString();
         }
-        public List<Registro>BuscarPersona(string condicion, DateTime desde, DateTime hasta)
+
+             
+        public Registro ObtenerRegistroPorId(int id)
+        {
+            Registro registro= null;
+
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("SELECT * FROM Registro WHERE Id = @Id", conn);
+                cmd.Parameters.AddWithValue("@Id", id);
+
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        registro = new Registro
+                        {
+
+                            Id = Convert.ToInt32(reader["Id"]),
+                            Identificacion = (string)reader["Identificacion"].ToString(),
+                            Nombre = (string)reader["Nombre"].ToString(),
+                            Apellido= (string)reader["Apellido"].ToString(),
+                            Departamento= (string)reader["Departamento"].ToString(),
+                            HoraDeIngreso = Convert.ToDateTime(reader["HoraDeIngreso"]),
+                            HoraDeSalida= Convert.ToDateTime(reader["HoraDeSalida"]),
+                            Motivo=(string)reader["Motivo"].ToString(),
+
+                        };
+                    }
+                }
+            }
+
+            return registro;
+        }
+        public List<Registro>BuscarRegistro(string condicion, DateTime desde, DateTime hasta)
         {
             List<Registro> registros= new List<Registro> ();
             try

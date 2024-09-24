@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Configuration;
 using abm.App.Models;
+using abm.view;
+
 namespace abm
 {
     public partial class main : Form
@@ -138,6 +140,10 @@ namespace abm
 
         private void button2_Click(object sender, EventArgs e)
         {
+            Form form = new AgregarYModificarUsuario();
+            //MessageBox.Show(usuario.Tipo.ToString());
+            form.ShowDialog();
+            this.Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

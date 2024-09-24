@@ -20,9 +20,6 @@ namespace abm
         private readonly IUsuarioService _usuarioService;
         public login()
         {
-
-            
-
             InitializeComponent();
             _usuarioService = new UsuarioService();
         }

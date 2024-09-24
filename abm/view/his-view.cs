@@ -1,8 +1,10 @@
 ﻿using abm.App.Models;
 using abm.data.Repositories;
+using abm.data.Repositorio;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -22,10 +24,10 @@ namespace abm
         //string conx;
         private readonly IHistorialService _historialService;
         private List<Registro> registros= new List<Registro>(); 
-        public his_view(string connString)
+        public his_view()
         {
             InitializeComponent();
-            _historialService = new HistorialService(connString);
+            _historialService = new HistorialService();
         }
 
         //public his_view(string x)

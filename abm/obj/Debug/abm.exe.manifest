@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="abm.exe" size="344024">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="abm.exe" size="345560">
       <assemblyIdentity name="abm" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mOyS1coSs2mS8GXgnGIorcgFj0OVXdWCZcp9DrO1j3w=</dsig:DigestValue>
+        <dsig:DigestValue>N6JYCpgMjpGAPHqpV0tX6WMwfXDN9zDZF9lWI8iI+60=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

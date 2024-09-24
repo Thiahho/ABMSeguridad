@@ -16,10 +16,11 @@ namespace abm.data.Repositories
     internal class HistorialService : IHistorialService
     {
         private readonly HistorialRepositorio _historialRepositorio;
-        
-        public HistorialService(string connString)
+
+        public HistorialService()
         {
-            _historialRepositorio= new HistorialRepositorio(connString);
+            _historialRepositorio= new HistorialRepositorio();
+
         }
         public List<Registro> BuscarPersona(string condicion, DateTime desde, DateTime hasta)
         {

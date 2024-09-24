@@ -10,5 +10,6 @@ namespace abm.data.Repositories
     public interface IUsuarioService
     {
         Usuario BuscarUsuario(string nombre, string password);
+        bool ActualizarUsuario(Usuario usuario);
     }
 }

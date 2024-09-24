@@ -47,7 +47,7 @@ namespace abm.data.Repositorio
                             Id = (int)reader["Id"],
                             Nombre = (string)reader["Nombre"].ToString(),
                             Password = (string)reader["Password"].ToString(),
-                            Tipo = (int)reader["Tipo"] 
+                            Tipo = reader["Tipo"].ToString()
                         };
                     }
                 }

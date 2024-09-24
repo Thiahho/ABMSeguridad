@@ -261,3 +261,4 @@ C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.xml
 C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\ppsABMSeguridad\abm\bin\Debug\System.Web.WebPages.Razor.xml
 C:\ppsABMSeguridad\abm\obj\Debug\abm.view.AgregarYModificarUsuario.resources
+C:\Users\thiag\Source\Repos\ABMSeguridad\abm\obj\Debug\abm.view.AgregarYModificarUsuario.resources

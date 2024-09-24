@@ -9,11 +9,13 @@ namespace abm.App.Models
     
     public class Usuario
     {
+        public int Id { get; set; }
         public string Nombre { get; set; }
         public string Password { get; set; }
         public String Tipo {  get; set; }
-        public Usuario(string nombre, string password, String tipo)
+        public Usuario(int id,string nombre, string password, String tipo)
         {
+            Id = id;
             Nombre = nombre;
             Password = password;
             Tipo = tipo;

@@ -68,7 +68,7 @@ namespace abm.data.Repositorio
                             Id = reader.GetInt32(0),
                             Nombre = reader.GetString(1),
                             Password = reader.GetString(2),
-                            Tipo = reader.GetInt32(3)
+                            Tipo = reader.GetString(3)
                         };
                     }
                 }

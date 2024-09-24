@@ -10,6 +10,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace abm.data.Repositories
 {
@@ -24,7 +25,19 @@ namespace abm.data.Repositories
         }
         public List<Registro> BuscarPersona(string condicion, DateTime desde, DateTime hasta)
         {
-         return _historialRepositorio.BuscarPersona(condicion,desde,hasta);
+            try
+            {
+                var historial = _historialRepositorio.BuscarPersona(condicion, desde, hasta);
+                return historial;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return new List<Registro>();
+
+            }
+
+
         }
 
         public void ExportarCsv(List<Registro> registros, string ruta, string separador)

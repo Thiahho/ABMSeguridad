@@ -52,5 +52,10 @@ namespace abm.data.Repositories
                 }
             }
         }
-    }
+
+        public bool ActualizarUsuario(Usuario usuario)
+        {
+            return true;
+        }
+}
 }

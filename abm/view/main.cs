@@ -10,33 +10,36 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Configuration;
 using abm.App.Models;
-using abm.view;
-
+using abm.data.Repositories;
+using abm.data.Repositorio;
+using abm.data.Conexion;
 namespace abm
 {
     public partial class main : Form
     {
+        
         List<Usuario>usuarios= new List<Usuario>(); 
-        string conn= ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-        string tipoUsuario;
+        private readonly IHistorialService _historialService;
+
+        private string tipoUsuario;
         public main(string tipo)
         {
 
             this.tipoUsuario= tipo;
 
-
             InitializeComponent();
+            _historialService = new HistorialService();
             if (tipo == "1") // Administrador
             {
                 button1.Visible = true;
-                bEditar.Visible = true;
+                button2.Visible = true;
                 provx.Visible = true;
 
             }
             else
             {
                 button1.Visible = false;
-                bEditar.Visible = false;
+                button2.Visible = false;
             }
             
             
@@ -72,7 +75,7 @@ namespace abm
         private void provx_Click(object sender, EventArgs e)
         {
             
-            openhoja(new prov(this , conn));
+            openhoja(new prov(this , Conexion.GetConnectionString()));
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -90,7 +93,8 @@ namespace abm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            openhoja(new his_view(conn));
+            //IHistorialService historialService = new HistorialService();
+            openhoja(new his_view());
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -140,10 +144,6 @@ namespace abm
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form form = new AgregarYModificarUsuario();
-            //MessageBox.Show(usuario.Tipo.ToString());
-            form.ShowDialog();
-            this.Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

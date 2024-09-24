@@ -1,4 +1,5 @@
 ﻿using abm.App.Models;
+using abm.data.Conexion;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -14,14 +15,45 @@ namespace abm.data.Repositorio
     {
         private readonly string _connectionString;
 
-        public HistorialRepositorio(string connectionString)
+        public HistorialRepositorio()
         {
-            _connectionString = connectionString;
-        }   
+            _connectionString = Conexion.Conexion.GetConnectionString();
+        }
+
 
         public List<Registro>BuscarHistorial(DateTime desde, DateTime hasta)
         {
             return null;
+        }
+
+
+
+        public Usuario ObtenerUsuarioPorId(int id)
+        {
+            Usuario usuario = null;
+
+            using (SqlConnection conn = new SqlConnection(_connectionString))
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("SELECT * FROM Usuarios WHERE Id = @Id", conn);
+                cmd.Parameters.AddWithValue("@Id", id);
+
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        usuario = new Usuario
+                        {
+                            Id = (int)reader["Id"],
+                            Nombre = (string)reader["Nombre"].ToString(),
+                            Password = (string)reader["Password"].ToString(),
+                            Tipo = (int)reader["Tipo"] 
+                        };
+                    }
+                }
+            }
+
+            return usuario;
         }
         public List<Registro>BuscarPersona(string condicion, DateTime desde, DateTime hasta)
         {

@@ -106,13 +106,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppConfig.cs" />
     <Compile Include="App\Models\Donde.cs" />
     <Compile Include="App\Models\Entra.cs" />
     <Compile Include="App\Models\Motivo.cs" />
     <Compile Include="App\Models\Registro.cs" />
     <Compile Include="App\Models\Salida.cs" />
     <Compile Include="App\Models\Usuario.cs" />
-    <Compile Include="data\Controllers\HistorialController.cs" />
+    <Compile Include="data\Conexion\Conexion.cs" />
+    <Compile Include="data\Repositorio\UsuarioRepositorio.cs" />
     <Compile Include="data\Service\HistorialService.cs" />
     <Compile Include="data\Service\IHistorialService.cs" />
     <Compile Include="data\Service\UsuarioService.cs" />

@@ -30,7 +30,6 @@ namespace abm
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(logo));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.HORA = new System.Windows.Forms.Timer(this.components);
@@ -44,7 +43,6 @@ namespace abm
             // pictureBox1
             // 
             this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(12, -87);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(702, 708);
@@ -58,7 +56,7 @@ namespace abm
             this.label1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.label1.Location = new System.Drawing.Point(87, 364);
+            this.label1.Location = new System.Drawing.Point(229, 219);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(204, 73);
             this.label1.TabIndex = 1;
@@ -74,7 +72,7 @@ namespace abm
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label2.Location = new System.Drawing.Point(94, 451);
+            this.label2.Location = new System.Drawing.Point(279, 310);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 33);
             this.label2.TabIndex = 2;
@@ -86,7 +84,7 @@ namespace abm
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(6, 27);
+            this.label4.Location = new System.Drawing.Point(-5, 16);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(86, 31);
             this.label4.TabIndex = 4;
@@ -97,7 +95,7 @@ namespace abm
             // 
             this.In.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.In.Controls.Add(this.label4);
-            this.In.Location = new System.Drawing.Point(387, 390);
+            this.In.Location = new System.Drawing.Point(550, 431);
             this.In.Name = "In";
             this.In.Size = new System.Drawing.Size(81, 61);
             this.In.TabIndex = 7;

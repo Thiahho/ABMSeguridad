@@ -106,7 +106,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppConfig.cs" />
     <Compile Include="App\Models\Donde.cs" />
     <Compile Include="App\Models\Entra.cs" />
     <Compile Include="App\Models\Motivo.cs" />
